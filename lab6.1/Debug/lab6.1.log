@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\qwer\Desktop\lab AP\lab 6\lab6.1\lab6.1\Source.cpp(61): warning C4715: Suma: значение возвращается не при всех путях выполнения
+C:\Users\qwer\Desktop\lab AP\lab 6\lab6.1\lab6.1\Source.cpp(44): warning C4715: Kilkist: значение возвращается не при всех путях выполнения
+  lab6.1.vcxproj -> C:\Users\qwer\Desktop\lab AP\lab 6\lab6.1\Debug\lab6.1.exe
